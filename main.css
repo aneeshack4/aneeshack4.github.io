@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  float: left;
+}
+
+h4,h5 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+body {
+	width: 850px;
+	margin: auto;
+}
