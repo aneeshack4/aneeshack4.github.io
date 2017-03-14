@@ -1,20 +1,33 @@
-h1 {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  text-align: center;
-}
-
 img {
-  display: block;
-  margin: auto;
-  float: left;
+    display: block;
+    margin: 0 auto;
+    width: 500px; 
+	height: 750px; 
 }
 
-h4,h5 {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  text-align: center;
+h1, h4, h5 {
+	font-family: "Lucida Console", "Monaco", monospace;
+	text-align: center;
 }
 
-body {
-	width: 850px;
-	margin: auto;
+h1 {
+	font-size:	-webkit-xxx-large;
 }
+
+h4, h5 {
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+ul {
+	font-family: "Lucida Console", "Monaco", monospace;
+	font-size: medium;
+	padding: 0; /* Remove the default padding. */
+	list-style: none;
+	text-align: center;
+}
+
+a {
+	color: inherit;
+}
+
