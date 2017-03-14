@@ -5,7 +5,7 @@ img {
 	height: 750px; 
 }
 
-h1, h4, h5 {
+h1, h3, h4{
 	font-family: "Lucida Console", "Monaco", monospace;
 	text-align: center;
 }
@@ -14,7 +14,7 @@ h1 {
 	font-size:	-webkit-xxx-large;
 }
 
-h4, h5 {
+h3, h4 {
     padding-left: 450px;
     padding-right: 450px;
 }
